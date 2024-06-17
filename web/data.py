@@ -46,7 +46,7 @@ class SourceDataDemo:
                     'count': [randint(1, 10) for i in range(4)]
                 },
                 'size': {
-                    'legend': [1.2, 2.5, 1.7, 4.5],
+                    'legend': [1.2, 2.5, 1.7, 3.8],
                     'count':  [randint(1, 10) for i in range(4)]
                 },
                 'status': {
@@ -56,7 +56,7 @@ class SourceDataDemo:
             },
             'B':{
                 'weight': {
-                    'legend': [1.2, 2.5, 1.7, 6.0],
+                    'legend': [1.2, 2.5, 1.7, 3.8],
                     'count':  [randint(1, 10) for i in range(4)]
                 },
                 'size': {
